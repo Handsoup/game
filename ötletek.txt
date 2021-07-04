@@ -1,0 +1,10 @@
+ötletek
+
+-ha megöl egy képesség akkor megkapod
+-a képességek több képességből álló szekvenciák és az hogy melyiket kapod meg az random vagy sorba megy
+-kombók elnyomása ne legyen túl egyszerű
+-az erős spelleket képességeket nem hosztilis ellenfelek adják akiket valahogy fel kell idegelned
+-kellenek rng képességek
+-Race advancement mimic megöl mimic human leszel ez kell ahoz hogy egyhitelhess gyengébb embereket vagy triggereld őket
+-Kifordítás képesség:Új inverz képességek megszerzése és a képernyő színei invertálódnak
+-Ring of inversion sekít deffenset szerezni
